@@ -176,7 +176,6 @@ a:hover {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    max-height: 1000px;
-    min-width: 600px;
+    max-width: 600px;
   }
 }
