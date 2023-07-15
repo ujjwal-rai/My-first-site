@@ -48,10 +48,11 @@ hr {
   left:220px;
 }
 .mountain{
-  position:relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width:100%;
   height:300px;
-  left:30px;
 }
 .my-image{
   border-radius: 50%;
